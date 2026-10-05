@@ -3,6 +3,7 @@ c/mio_env/
 __pycache__/
 **/__pycache__/
 *.pyc
+colibri_engine.egg-info/
 web/node_modules/
 web/dist/
 web/*.tsbuildinfo
